@@ -1,0 +1,14 @@
+Quality Prediction In A Mining Process
+
+Project Description:
+
+The main goal of this project is to predict how much impurity is in the ore concentrate.
+The% of Silica is measured  in a lab experiment it takes at least one hour for the process engineers to have this value.
+As this impurity is measured every hour, if we can predict how much silica (impurity) is in the ore concentrate, we can help the engineers, giving them early information to take actions (empowering!).
+Hence, they will be able to take corrective actions in advance (reduce impurity, if it is the case) and also help the environment (reducing the amount of ore that goes to tailings as you reduce silica in the ore concentrate).
+
+Solution:
+To predict the silica(impurity) % in the ore concentrate in a less time we are building a predictive analytics system in that we are applying various machine learning algorithms and find the best accurate model. 
+Here web application will be used to display the prediction . The web application is built by using flask framework and it is integrated with trained ML model.
+
+Team list:-Lokesha E J, Punith B N, Venketesh Pratap Mall, Abhishek Puranikmatha,Aman
